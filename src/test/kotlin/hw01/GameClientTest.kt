@@ -1,5 +1,7 @@
+package hw01
+
 import org.junit.Test
-import ru.otus.kotlin22.first.GameClient
+import ru.otus.kotlin22.first.hw01.GameClient
 import kotlin.test.assertEquals
 
 
